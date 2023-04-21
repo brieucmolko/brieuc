@@ -7,6 +7,7 @@
 #define NFOURMI 100;
 #define TX 10;
 #define TY 20;
+#define lol;
 
 // SECTION B : DEFINITIONS DES STRUCTURES
 typedef struct fourmie{
